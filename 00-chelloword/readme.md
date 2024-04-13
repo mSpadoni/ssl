@@ -1,6 +1,8 @@
 Trabajo Practico #0: Compilar en c
 
 Para comenzar este trabajo tuve que descargar un compilador y para ello me instale mingw64 (que tenía el compilador gcc), luego de esto comencé a escribir mi código en hello.c. 
+
+
 ![main](https://github.com/mSpadoni/ssl/assets/164950683/4c7320ff-1ec2-49ec-9486-fecb6155665e)
 
 
