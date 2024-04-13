@@ -12,7 +12,8 @@ Despues de eso tuve que compilar y para ello lo primero que hice fue escribir en
 ![terminal](https://github.com/mSpadoni/ssl/assets/164950683/fc77b90c-c7f7-45ab-b544-d56a98d9cb33)
 
 
-Y finalmente lo único que me faltaba era re direccionar la salida del programa, para ello cree output.txt y escribi en la consola       &.\'hello.exe' -std=c11 > output.txt:
+Y finalmente lo único que me faltaba era re direccionar la salida del programa, para ello cree output.txt y escribi en la consola      
+&.\'hello.exe' -std=c11 > output.txt:
 
 
  ![termi](https://github.com/mSpadoni/ssl/assets/164950683/1cd2b42d-8ae2-4ba0-91f0-ab6cfcb04407)
@@ -21,5 +22,6 @@ Y finalmente lo único que me faltaba era re direccionar la salida del programa,
 lo que me permitió escribir la salida de mi programa en output.txt:
 
 
-![terminal](https://github.com/mSpadoni/ssl/assets/164950683/c9cee0c1-fc09-486b-9fc8-bd3d140c6e51)
+![output](https://github.com/mSpadoni/ssl/assets/164950683/d7afcb29-d616-4968-8f6b-1acfe2a691b5)
+
 
