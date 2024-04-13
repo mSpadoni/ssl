@@ -1,4 +1,3 @@
-Sintaxis y Semantica de los Lenguajes
 
 Nombre y apellido: Mateo Spadoni 
 
