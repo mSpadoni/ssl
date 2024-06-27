@@ -102,7 +102,7 @@
 | 26              | )                                            | caracter de puntuacion |
 | 26              | ==                                           | operador               |
 | 26              | 0                                            | constante              |
-| 26              | `||`                                         | operador               |
+| 26              | Operador or (no me deja poner las varras paralelas) | operador               |
 | 26              | esNumero                                     | identificador          |
 | 26              | (                                            | caracter de puntuacion |
 | 26              | argv                                         | identificador          |
