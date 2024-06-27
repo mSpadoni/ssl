@@ -1,5 +1,5 @@
-| Numero de Linea | Lexema                                       | Token                 |  
-| -------------- | --------------------------------------------- | ---------------------- |
+| Numero de Linea | Lexema                                       | Token                  |  
+| --------------- | --------------------------------------------- | --------------------- |
 | 6               | int                                          | palabra reservada      |
 | 6               | esNumero                                     | identificador          |
 | 6               | (                                            | caracter de puntuacion |
